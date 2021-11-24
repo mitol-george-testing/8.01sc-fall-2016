@@ -1,0 +1,33 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Science",
+      "Physics",
+      "Classical Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "a32373bc-8c78-e37a-f79e-1f15686d1a9b",
+      "a16d0fec-adce-ec6a-10b1-d8153a7427e6",
+      "0bb74f02-6e52-c6eb-1b90-fe7d782be397",
+      "c8b71de9-118e-b585-3e09-8cbe2bcfc6f2",
+      "144c1f31-44a3-23a9-7819-21a612f6574f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Classical Mechanics",
+  "course_description": "This first course in the physics curriculum introduces classical mechanics. Historically, a set of core concepts\u2014space, time, mass, force, momentum, torque, and angular momentum\u2014were introduced in classical mechanics in order to solve the most famous physics problem, the motion of the planets.\n\nThe principles of mechanics successfully described many other phenomena encountered in the world. Conservation laws involving energy, momentum and angular momentum provided a second parallel approach to solving many of the same problems. In this course, we will investigate both approaches: Force and conservation laws.\n\n[![Click to get started.](/images/button_start.png)](pages/syllabus)\n\nOur goal is to develop a conceptual understanding of the core concepts, a familiarity with the experimental verification of our theoretical laws, and an ability to apply the theoretical framework to describe and predict the motions of bodies.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.01SC",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Problem Sets",
+    "Online Textbook"
+  ],
+  "title": "Course Metadata"
+}
